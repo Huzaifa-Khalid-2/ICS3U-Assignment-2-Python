@@ -7,7 +7,7 @@
 
 
 def main():
-    # this function shows formatting output
+    # this function calculates the perimeter
     print("This program will calcualte the perimeter of a kite")
     
     # input
