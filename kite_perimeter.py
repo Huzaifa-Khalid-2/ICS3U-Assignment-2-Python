@@ -7,7 +7,7 @@
 
 
 def main():
-    # this function calculates the perimeter of a kite 
+    # this function calculates the perimeter of a kite
     # with user input
     print("This program will calcualte the perimeter of a kite")
 
